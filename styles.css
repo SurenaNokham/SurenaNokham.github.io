@@ -42,15 +42,15 @@ section {
 }
 
 section:nth-of-type(odd) {
-    background: #f4f4f4;
+    background: #ffcccc; /* Light pink */
 }
 
 section:nth-of-type(even) {
-    background: #fff;
+    background: #ffe6e6; /* Very light pink */
 }
 
 footer {
-    background: #333;
+    background: #cc0000; /* Deep red background */
     color: #fff;
     text-align: center;
     padding: 1rem 0;
