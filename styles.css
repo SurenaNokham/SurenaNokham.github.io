@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
     line-height: 1.6;
@@ -17,6 +17,7 @@ header {
     width: 100%;
     top: 0;
     z-index: 1000;
+    font-family: 'Pacifico', cursive;
 }
 
 nav ul {
@@ -49,6 +50,10 @@ section:nth-of-type(even) {
     background: #ffe6e6; /* Very light pink */
 }
 
+section h1 {
+    font-family: 'Pacifico', cursive;
+}
+
 footer {
     background: #cc0000; /* Deep red background */
     color: #fff;
@@ -57,4 +62,5 @@ footer {
     position: relative;
     width: 100%;
     bottom: 0;
+    font-family: 'Pacifico', cursive;
 }
