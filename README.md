@@ -3,12 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Surena Nokham's Portfolio</title>
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
     <header>
-        <h1>Surena Nokham</h1>
+        <h1>Surena Nokham's Porfolio</h1>
         <nav>
             <ul>
                 <li><a href="about.html">About</a></li>
@@ -20,7 +19,7 @@
     <main>
         <section id="intro">
             <h2>Welcome to My Portfolio</h2>
-            <p>Explore my projects and learn more about my work in data science.</p>
+            <p>Explore my projects and learn more about my work in Data Science.</p>
         </section>
     </main>
     <footer>
