@@ -3,37 +3,35 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    scroll-behavior: smooth;
-    background: #ffe6e6; /* Light pink background */
+    background: #ffe6e6;
     color: #333;
 }
 
 header {
-    background: #cc0000; /* Deep red background */
-    color: #fff;
+    background: #cc0000;
+    color: white;
     padding: 1rem 0;
     text-align: center;
     position: fixed;
     width: 100%;
     top: 0;
     z-index: 1000;
-    font-family: 'Pacifico', cursive;
 }
 
 nav ul {
-    list-style: none;
-    padding: 0;
+    list-style-type: none;
     margin: 0;
+    padding: 0;
     display: flex;
     justify-content: center;
 }
 
 nav ul li {
-    margin: 0 15px;
+    margin: 0 20px;
 }
 
 nav ul li a {
-    color: #fff;
+    color: white;
     text-decoration: none;
 }
 
@@ -42,26 +40,20 @@ section {
     text-align: center;
 }
 
-section:nth-of-type(odd) {
-    background: #ffcccc; /* Light pink */
+.project-item {
+    text-align: left;
+    margin-bottom: 20px;
 }
 
-section:nth-of-type(even) {
-    background: #ffe6e6; /* Very light pink */
-}
-
-section h1 {
-    font-family: 'Pacifico', cursive;
+.project-description {
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 5px;
 }
 
 footer {
-    background: #cc0000; /* Deep red background */
-    color: #fff;
+    background: #cc0000;
+    color: white;
     text-align: center;
     padding: 1rem 0;
-    position: relative;
-    width: 100%;
-    bottom: 0;
-    font-family: 'Pacifico', cursive;
 }
-
