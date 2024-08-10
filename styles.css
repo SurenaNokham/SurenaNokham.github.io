@@ -64,3 +64,9 @@ footer {
     bottom: 0;
     font-family: 'Pacifico', cursive;
 }
+
+img {
+    border-radius: 50%; /* Makes the image round */
+    border: 3px solid #ccc; /* Adds a border around the image */
+    margin-bottom: 20px; /* Adds space below the image */
+}
