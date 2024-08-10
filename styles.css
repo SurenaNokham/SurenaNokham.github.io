@@ -42,6 +42,10 @@ section {
     text-align: center;
 }
 
+section h3 {
+    text-align: left; /* Align sub-headers text to the left */
+}
+
 section:nth-of-type(odd) {
     background: #ffcccc; /* Light pink */
 }
