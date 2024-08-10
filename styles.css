@@ -43,7 +43,7 @@ section {
 }
 
 section h3 {
-    text-align: left; /* Align sub-headers text to the left */
+    text-align: center; /* Align sub-headers text to the left */
 }
 
 section:nth-of-type(odd) {
