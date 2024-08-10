@@ -18,12 +18,6 @@ header {
     top: 0;
     z-index: 1000;
     font-family: 'Pacifico', cursive;
-    
-img {
-    border-radius: 50%; /* Makes the image round */
-    border: 3px solid #ccc; /* Adds a border around the image */
-    margin-bottom: 20px; /* Adds space below the image */
-
 }
 
 nav ul {
