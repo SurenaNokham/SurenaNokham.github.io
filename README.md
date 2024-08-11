@@ -39,8 +39,8 @@ This project aims to analyze sentiment in Walmart employee reviews using Natural
 ## Contact
 Feel free to reach out to me with any questions or if you are interested in collaborating on a project!
 
-- **Email:** [FeyraNokham@gmail.com](mailto:FeyraNokham@gmail.com)
-- **LinkedIn:** [Feyra Nokham](https://www.linkedin.com/in/feyra-nokham/)
+- 📬**Email:** [FeyraNokham@gmail.com](mailto:FeyraNokham@gmail.com)
+- 💼**LinkedIn:** [Feyra Nokham](https://www.linkedin.com/in/feyra-nokham/)
 
 Thank you for visiting my portfolio!
 
